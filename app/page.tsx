@@ -260,7 +260,7 @@ export default function Home() {
             </div>
           </motion.div>
           <VideoControls videoRef={videoRef3} />
-          <CreditLine />
+          {/* <CreditLine /> */}
         </section>
       </AnimatePresence>
 
